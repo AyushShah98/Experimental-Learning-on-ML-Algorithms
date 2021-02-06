@@ -4,4 +4,4 @@
 <br>
 # Linear Regression
 <br><br>
-![image_error!](Images/5.PNG)<br>
+![image_error!](/Images/5.PNG)<br>
